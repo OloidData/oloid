@@ -1,3 +1,3 @@
 # oloid
 
-My very first algorithm!
+Glows with love. 
